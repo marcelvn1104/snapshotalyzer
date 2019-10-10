@@ -12,3 +12,5 @@ shotty uses the configuration file created by the AWS cli:
 
 ##Running
 `pipenv run "python shotty/shotty.py"`
+
+Additions to the file within the Feature branch
